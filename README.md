@@ -4,7 +4,7 @@
 
 Repository Link: https://github.com/ZFarnworth/ECommerceBackEnd
 
-Deployed App Link:
+Deployed App Link: https://git.heroku.com/tech-blog-zf.git
 
 ## Description
 
